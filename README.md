@@ -9,4 +9,4 @@ I am Tzur Soffer. I am a hobbyist doing projects in automation.
 - My Thingiverse: https://www.thingiverse.com/tzurpromaker
 - My GrabCad: https://grabcad.com/tzur.soffer-1/models
 
-![TzurSoffer's GitHub stats](https://github-readme-stats.vercel.app/api?username=TzurSoffer&show_icons=true&theme=dark)
+![TzurSoffer's GitHub stats](https://github-stats-extended.vercel.app/api?username=TzurSoffer&show_icons=true&theme=dark)
