@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I am Tzur Soffer. I am a hobbyist doing projects in automation.
+- My Email: tzur.soffer@gmail.com
 - My Website: https://tzur.soffer.tech/
 - My GitHub: https://github.com/TzurSoffer/
 - My PyPi: https://pypi.org/user/MePro/
